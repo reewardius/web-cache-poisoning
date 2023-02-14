@@ -22,7 +22,7 @@ Akamai WAF
 2. https://medium.com/@jacopotediosi/worldwide-server-side-cache-poisoning-on-all-akamai-edge-nodes-50k-bounty-earned-f97d80f3922b
 3. https://kb.cert.org/vuls/id/335217/
 ```
-All HTTP Headers for Fuzzing
+All HTTP Headers for Fuzzing (file)
 ```
-> https://github.com/danielmiessler/SecLists/blob/master/Miscellaneous/web/http-request-headers/http-request-headers-fields-large.txt
+> http-request-headers-fields-large.txt
 ```
