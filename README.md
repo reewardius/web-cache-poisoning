@@ -10,6 +10,7 @@ Articles:
 6. https://portswigger.net/research/practical-web-cache-poisoning
 7. https://blog.yeswehack.com/yeswerhackers/http-header-exploitation/
 8. https://hackerone.com/reports/1271944 -> Shopify
+9. https://youst.in/posts/cache-poisoning-at-scale/
 ```
 Tools:
 ```
